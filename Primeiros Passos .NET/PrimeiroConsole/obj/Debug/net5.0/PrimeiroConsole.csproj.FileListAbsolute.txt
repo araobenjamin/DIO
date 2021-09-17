@@ -1,0 +1,16 @@
+C:\Users\araob\github\DIO\Primeiros Passos .NET\PrimeiroConsole\bin\Debug\net5.0\PrimeiroConsole.exe
+C:\Users\araob\github\DIO\Primeiros Passos .NET\PrimeiroConsole\bin\Debug\net5.0\PrimeiroConsole.deps.json
+C:\Users\araob\github\DIO\Primeiros Passos .NET\PrimeiroConsole\bin\Debug\net5.0\PrimeiroConsole.runtimeconfig.json
+C:\Users\araob\github\DIO\Primeiros Passos .NET\PrimeiroConsole\bin\Debug\net5.0\PrimeiroConsole.runtimeconfig.dev.json
+C:\Users\araob\github\DIO\Primeiros Passos .NET\PrimeiroConsole\bin\Debug\net5.0\PrimeiroConsole.dll
+C:\Users\araob\github\DIO\Primeiros Passos .NET\PrimeiroConsole\bin\Debug\net5.0\ref\PrimeiroConsole.dll
+C:\Users\araob\github\DIO\Primeiros Passos .NET\PrimeiroConsole\bin\Debug\net5.0\PrimeiroConsole.pdb
+C:\Users\araob\github\DIO\Primeiros Passos .NET\PrimeiroConsole\obj\Debug\net5.0\PrimeiroConsole.csproj.AssemblyReference.cache
+C:\Users\araob\github\DIO\Primeiros Passos .NET\PrimeiroConsole\obj\Debug\net5.0\PrimeiroConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\araob\github\DIO\Primeiros Passos .NET\PrimeiroConsole\obj\Debug\net5.0\PrimeiroConsole.AssemblyInfoInputs.cache
+C:\Users\araob\github\DIO\Primeiros Passos .NET\PrimeiroConsole\obj\Debug\net5.0\PrimeiroConsole.AssemblyInfo.cs
+C:\Users\araob\github\DIO\Primeiros Passos .NET\PrimeiroConsole\obj\Debug\net5.0\PrimeiroConsole.csproj.CoreCompileInputs.cache
+C:\Users\araob\github\DIO\Primeiros Passos .NET\PrimeiroConsole\obj\Debug\net5.0\PrimeiroConsole.dll
+C:\Users\araob\github\DIO\Primeiros Passos .NET\PrimeiroConsole\obj\Debug\net5.0\ref\PrimeiroConsole.dll
+C:\Users\araob\github\DIO\Primeiros Passos .NET\PrimeiroConsole\obj\Debug\net5.0\PrimeiroConsole.pdb
+C:\Users\araob\github\DIO\Primeiros Passos .NET\PrimeiroConsole\obj\Debug\net5.0\PrimeiroConsole.genruntimeconfig.cache
