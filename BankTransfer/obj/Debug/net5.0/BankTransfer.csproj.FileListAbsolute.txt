@@ -1,0 +1,16 @@
+C:\Users\araob\github\DIO\BankTransfer\bin\Debug\net5.0\BankTransfer.exe
+C:\Users\araob\github\DIO\BankTransfer\bin\Debug\net5.0\BankTransfer.deps.json
+C:\Users\araob\github\DIO\BankTransfer\bin\Debug\net5.0\BankTransfer.runtimeconfig.json
+C:\Users\araob\github\DIO\BankTransfer\bin\Debug\net5.0\BankTransfer.runtimeconfig.dev.json
+C:\Users\araob\github\DIO\BankTransfer\bin\Debug\net5.0\BankTransfer.dll
+C:\Users\araob\github\DIO\BankTransfer\bin\Debug\net5.0\ref\BankTransfer.dll
+C:\Users\araob\github\DIO\BankTransfer\bin\Debug\net5.0\BankTransfer.pdb
+C:\Users\araob\github\DIO\BankTransfer\obj\Debug\net5.0\BankTransfer.csproj.AssemblyReference.cache
+C:\Users\araob\github\DIO\BankTransfer\obj\Debug\net5.0\BankTransfer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\araob\github\DIO\BankTransfer\obj\Debug\net5.0\BankTransfer.AssemblyInfoInputs.cache
+C:\Users\araob\github\DIO\BankTransfer\obj\Debug\net5.0\BankTransfer.AssemblyInfo.cs
+C:\Users\araob\github\DIO\BankTransfer\obj\Debug\net5.0\BankTransfer.csproj.CoreCompileInputs.cache
+C:\Users\araob\github\DIO\BankTransfer\obj\Debug\net5.0\BankTransfer.dll
+C:\Users\araob\github\DIO\BankTransfer\obj\Debug\net5.0\ref\BankTransfer.dll
+C:\Users\araob\github\DIO\BankTransfer\obj\Debug\net5.0\BankTransfer.pdb
+C:\Users\araob\github\DIO\BankTransfer\obj\Debug\net5.0\BankTransfer.genruntimeconfig.cache
