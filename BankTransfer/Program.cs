@@ -9,8 +9,7 @@ namespace BankTransfer
     {
         static void Main(string[] args)
         {
-            ContaBancariaRepo contasRepo = new ContaBancariaRepo();
-            Aplicacao app = new Aplicacao(contasRepo);
+            Aplicacao app = new Aplicacao();
             app.Principal();
         }
     }

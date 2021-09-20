@@ -10,12 +10,7 @@ namespace BankTransfer
 {
     public class Aplicacao
     {
-        ContaBancariaRepo contasRepo;
-
-        public Aplicacao(ContaBancariaRepo contasRepo)
-        {
-            this.contasRepo = contasRepo;
-        }
+        ContaBancariaRepo contasRepo = new ContaBancariaRepo();
 
         public void Principal()
         {
@@ -51,14 +46,11 @@ namespace BankTransfer
 
         private void ListarContas()
         {
-            List<IEntidade> lista = contasRepo.Listar().ToList();
-            ContaBancaria conta;
-
             System.Console.WriteLine("\nContas Bancárias");
             System.Console.WriteLine("----------------");
-            foreach (var item in lista)
+
+            foreach (var conta in contasRepo.Listar())
             {
-                conta = (ContaBancaria)item;
                 System.Console.WriteLine($"Conta # {conta.Id} \t| Nome: {conta.NomePessoa} \t| {conta.TipoPessoa.ToString()} \t| Saldo: ${conta.Saldo} \t| Credito: ${conta.Credito}");
             }
         }
@@ -161,7 +153,7 @@ namespace BankTransfer
                 return;
             }
 
-            ContaBancaria conta = (ContaBancaria)contasRepo.Buscar(contaId);
+            ContaBancaria conta = contasRepo.Buscar(contaId);
             if (conta is null)
             {
                 System.Console.WriteLine("ERRO: Conta bancaria não existe.");
@@ -203,7 +195,7 @@ namespace BankTransfer
                 return;
             }
 
-            ContaBancaria conta = (ContaBancaria)contasRepo.Buscar(contaId);
+            ContaBancaria conta = contasRepo.Buscar(contaId);
             if (conta is null)
             {
                 System.Console.WriteLine("ERRO: Conta bancaria não existe.");
@@ -240,7 +232,7 @@ namespace BankTransfer
                 return;
             }
 
-            ContaBancaria contaOrigem = (ContaBancaria)contasRepo.Buscar(contaIdOrigem);
+            ContaBancaria contaOrigem = contasRepo.Buscar(contaIdOrigem);
             if (contaOrigem is null)
             {
                 System.Console.WriteLine("ERRO: Conta bancaria não existe.");
@@ -259,7 +251,7 @@ namespace BankTransfer
                 return;
             }
 
-            ContaBancaria contaDestino = (ContaBancaria)contasRepo.Buscar(contaIdDestino);
+            ContaBancaria contaDestino = contasRepo.Buscar(contaIdDestino);
             if (contaDestino is null)
             {
                 System.Console.WriteLine("ERRO: Conta bancaria não existe.");
