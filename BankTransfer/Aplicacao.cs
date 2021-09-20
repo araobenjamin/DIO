@@ -20,7 +20,7 @@ namespace BankTransfer
             {
                 opcao = ColetarOpcao();
 
-                switch (opcao)
+                switch (opcao.ToUpper())
                 {
                     case "1":
                         ListarContas();
